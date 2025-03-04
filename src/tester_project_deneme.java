@@ -9,5 +9,8 @@ public class tester_project_deneme {
             System.out.println(i);
         }
         System.out.println("MERHABA HILAL");
+
+
+        System.out.println("Telman geldi");
     }
 }
