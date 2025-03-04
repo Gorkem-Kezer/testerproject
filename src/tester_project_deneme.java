@@ -3,5 +3,10 @@ public class tester_project_deneme {
 
         System.out.println("Merhaba Takım2 ");
         System.out.println("Telman naber");
+
+
+        for (int i = 0; i < 5; i++) {
+            System.out.println(i);
+        }
     }
 }
