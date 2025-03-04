@@ -16,5 +16,8 @@ public class tester_project_deneme {
         System.out.println("Telman gitti");
 
         System.out.println("******");
+
+
+        System.out.println("Kral geldi ayıksss");
     }
 }
