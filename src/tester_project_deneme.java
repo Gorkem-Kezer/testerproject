@@ -23,5 +23,8 @@ public class tester_project_deneme {
         System.out.println("ben yine geldim");
 
         System.out.println("küçük telman geldi");
+
+
+        System.out.println("Telman gelmiyor utandı");
     }
 }
